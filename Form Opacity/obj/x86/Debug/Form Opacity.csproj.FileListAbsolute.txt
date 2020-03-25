@@ -1,0 +1,29 @@
+C:\Users\NCFKR1\Desktop\ \3 C#\Form Opacity\Form Opacity\bin\Debug\Form Opacity.exe
+C:\Users\NCFKR1\Desktop\ \3 C#\Form Opacity\Form Opacity\bin\Debug\Form Opacity.pdb
+C:\Users\NCFKR1\Desktop\ \3 C#\Form Opacity\Form Opacity\obj\x86\Debug\Form_Opacity.Form1.resources
+C:\Users\NCFKR1\Desktop\ \3 C#\Form Opacity\Form Opacity\obj\x86\Debug\Form_Opacity.Properties.Resources.resources
+C:\Users\NCFKR1\Desktop\ \3 C#\Form Opacity\Form Opacity\obj\x86\Debug\Form Opacity.csproj.GenerateResource.Cache
+C:\Users\NCFKR1\Desktop\ \3 C#\Form Opacity\Form Opacity\obj\x86\Debug\Form Opacity.exe
+C:\Users\NCFKR1\Desktop\ \3 C#\Form Opacity\Form Opacity\obj\x86\Debug\Form Opacity.pdb
+C:\Users\Ncfkr\Desktop\7 Kodbank C# Görsel Programlama 7 Şeffaf Form\Form Opacity\Form Opacity\obj\x86\Debug\Form Opacity.exe
+C:\Users\Ncfkr\Desktop\7 Kodbank C# Görsel Programlama 7 Şeffaf Form\Form Opacity\Form Opacity\obj\x86\Debug\Form Opacity.pdb
+C:\Users\Ncfkr\Desktop\7 Kodbank C# Görsel Programlama 7 Şeffaf Form\Form Opacity\Form Opacity\bin\Debug\Form Opacity.exe
+C:\Users\Ncfkr\Desktop\7 Kodbank C# Görsel Programlama 7 Şeffaf Form\Form Opacity\Form Opacity\bin\Debug\Form Opacity.pdb
+C:\Users\Ncfkr\Desktop\7 Kodbank C# Görsel Programlama 7 Şeffaf Form\Form Opacity\Form Opacity\obj\x86\Debug\Form Opacity.csprojResolveAssemblyReference.cache
+C:\Users\Ncfkr\Desktop\7 Kodbank C# Görsel Programlama 7 Şeffaf Form\Form Opacity\Form Opacity\obj\x86\Debug\Form_Opacity.Form1.resources
+C:\Users\Ncfkr\Desktop\7 Kodbank C# Görsel Programlama 7 Şeffaf Form\Form Opacity\Form Opacity\obj\x86\Debug\Form_Opacity.Properties.Resources.resources
+C:\Users\Ncfkr\Desktop\7 Kodbank C# Görsel Programlama 7 Şeffaf Form\Form Opacity\Form Opacity\obj\x86\Debug\Form Opacity.csproj.GenerateResource.Cache
+E:\1 Github\2 Akademi\Form\32 Kod-H CSharp Form Opacity\Form Opacity\obj\x86\Debug\Form Opacity.exe
+E:\1 Github\2 Akademi\Form\32 Kod-H CSharp Form Opacity\Form Opacity\obj\x86\Debug\Form Opacity.pdb
+E:\1 Github\2 Akademi\Form\32 Kod-H CSharp Form Opacity\Form Opacity\obj\x86\Debug\Form Opacity.csprojResolveAssemblyReference.cache
+E:\1 Github\2 Akademi\Form\32 Kod-H CSharp Form Opacity\Form Opacity\obj\x86\Debug\Form_Opacity.Form1.resources
+E:\1 Github\2 Akademi\Form\32 Kod-H CSharp Form Opacity\Form Opacity\obj\x86\Debug\Form_Opacity.Properties.Resources.resources
+E:\1 Github\2 Akademi\Form\32 Kod-H CSharp Form Opacity\Form Opacity\obj\x86\Debug\Form Opacity.csproj.GenerateResource.Cache
+F:\04 - Yazılım\04 - Form Projeleri\24 Form Opacity\Form Opacity\obj\x86\Debug\Form Opacity.exe
+F:\04 - Yazılım\04 - Form Projeleri\24 Form Opacity\Form Opacity\obj\x86\Debug\Form Opacity.csprojResolveAssemblyReference.cache
+F:\04 - Yazılım\04 - Form Projeleri\24 Form Opacity\Form Opacity\obj\x86\Debug\Form_Opacity.Form1.resources
+F:\04 - Yazılım\04 - Form Projeleri\24 Form Opacity\Form Opacity\obj\x86\Debug\Form_Opacity.Properties.Resources.resources
+F:\04 - Yazılım\04 - Form Projeleri\24 Form Opacity\Form Opacity\obj\x86\Debug\Form Opacity.csproj.GenerateResource.Cache
+F:\04 - Yazılım\04 - Form Projeleri\24 Form Opacity\Form Opacity\bin\Debug\Form Opacity.exe
+F:\04 - Yazılım\04 - Form Projeleri\24 Form Opacity\Form Opacity\bin\Debug\Form Opacity.pdb
+F:\04 - Yazılım\04 - Form Projeleri\24 Form Opacity\Form Opacity\obj\x86\Debug\Form Opacity.pdb
